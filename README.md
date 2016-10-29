@@ -6,5 +6,23 @@ References: Graham Finlayson et al. "Entropy Minimization for Shadow Removal". I
 
 Successful cases:
 
+1)
 ![alt tag](https://raw.githubusercontent.com/srijan-mishra/Shadow-Removal/master/images/Successful%20Cases/1.png)
+![alt tag](https://github.com/srijan-mishra/Shadow-Removal/blob/master/images/Successful%20Cases/1_1D.png)
+
+2)
+![alt tag](https://github.com/srijan-mishra/Shadow-Removal/blob/master/images/Successful%20Cases/2.png)
+![alt tag](https://github.com/srijan-mishra/Shadow-Removal/blob/master/images/Successful%20Cases/2_1D.jpg)
+
+3)
+![alt tag](https://raw.githubusercontent.com/srijan-mishra/Shadow-Removal/master/images/Successful%20Cases/1.png)
+![alt tag](https://raw.githubusercontent.com/srijan-mishra/Shadow-Removal/master/images/Successful%20Cases/1.png)
+
+Failure cases:
+
+1)
+![alt tag](https://raw.githubusercontent.com/srijan-mishra/Shadow-Removal/master/images/Successful%20Cases/1.png)
+![alt tag](https://raw.githubusercontent.com/srijan-mishra/Shadow-Removal/master/images/Successful%20Cases/1.png)
+
+
 
