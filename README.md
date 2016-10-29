@@ -28,5 +28,7 @@ Failure cases:
 ![alt tag](https://github.com/srijan-mishra/Shadow-Removal/blob/master/images/Failure%20Cases/image.png)
 ![alt tag](https://github.com/srijan-mishra/Shadow-Removal/blob/master/images/Failure%20Cases/image_1D.png)
 
+Note: The algorithm does not work for non-linearly reddened JPEG images.
+
 
 
