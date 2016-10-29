@@ -5,7 +5,7 @@ import statistics
 
 
 
-img=cv2.imread('p003.png')
+img=cv2.imread('p003.png') #path to the image
 img=np.float64(img)
 blue,green,red=cv2.split(img)
 
@@ -113,4 +113,4 @@ r_ti=c_ti/sum_ti
 r_ti2=255*r_ti
 
 
-cv2.imwrite('p003-1.png',r_ti2)
+cv2.imwrite('p003-1.png',r_ti2) #path to directory where image is saved
